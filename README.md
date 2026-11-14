@@ -118,3 +118,10 @@ lvgl:
 
 ESPHome's files: [LICENSE](LICENSE). The additions of this branch (the changes to `i2c` and `ft5x06`, this
 README and its example): [LICENSE-MIT](LICENSE-MIT).
+
+## Branch structure
+
+Each `pr/` branch holds one part of this topic on top of upstream and says in its `BRANCH.md` what it is based on. `main` holds all of them.
+
+| Branch | Based on |
+|---|---|
